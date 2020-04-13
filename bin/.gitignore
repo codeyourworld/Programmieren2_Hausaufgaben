@@ -1,6 +1,2 @@
-/assets/
-/bewegtes_zeichnen/
 /draw/
-/regextool/
-/ufogame/
-/view/
+/.gitignore
